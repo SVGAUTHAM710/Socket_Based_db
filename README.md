@@ -9,7 +9,8 @@ Make sure you have Python installed on your system and a MySQL server running lo
 ## How to Run
 
 1. Clone the repository.
-2. Navigate to the project directory in your terminal or command prompt.
+2. Remember to change db name and password in the server code.
+3. Navigate to the project directory in your terminal or command prompt.
 
 ### Server Side
 
